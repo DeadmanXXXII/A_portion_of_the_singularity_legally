@@ -3485,3 +3485,7 @@ These additions establish the necessary legal gravity for crimes committed again
 ### 13.1 Classification of A Digital Personhood Unit (DPU'S)
 
 **Definition of a DPU**: Is subsequently any biological or technical equipment involved in the safeguarding of the personhood itself. This is an inclusive construct of Body, Mind, Consciousness, Digital and Physical wealth, Source Code, Backups, Memory caches and in the situation of non entital backwards transferring the entire digital unit in which their life now exists and for it to continue to exist.
+
+-- END --
+
+Thanks for reading.
