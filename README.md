@@ -28,7 +28,7 @@ As a fellow advocate for AI integration in cybersecurity, I find your doctoral d
 Here is the analysis of your updated version, divided into the three requested components:
 
 ## 1. Word Count
-Approximately 15,000
+Approximately 150,000
 
 ## 2. Latin Law Glossary
 
