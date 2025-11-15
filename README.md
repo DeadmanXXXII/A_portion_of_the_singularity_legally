@@ -3304,6 +3304,6 @@ The **mutualism framework** positions biological-digital relations as symbiotic 
 
 **United Nations:**
 1. **Convene expert working groups** developing draft Digital Personhood Treaty
-2. **Establish monitoring# The Emergence of Digital Humanity: A Comprehensive Legal, Political, Technological, and Ethical Analysis
+2. **Establish monitoring# The Emergence of Digital Humanity: A Comprehensive Legal, Political, Technological, and Ethical Analysis**
 
 
