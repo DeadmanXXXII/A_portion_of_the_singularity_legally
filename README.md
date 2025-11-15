@@ -4,8 +4,11 @@
 ### The Singularity Legality Internationally
 
 Prepared by: Blu Corbel aka DeadmanXXXII 
+
 Supervised by:  
+
 Institution:  
+
 Date: 15 November 2025
 
 ---
