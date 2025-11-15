@@ -3380,7 +3380,10 @@ The **mutualism framework** positions biological-digital relations as symbiotic 
 
 ### 12.1. Frameworks and legislative proposal
 
-#### 12.1.1 Formalization Digital Personhood Cyber and Information Security In Practicality
+#### 12.1.1 Formalization of Digital Personhood Cyber and Information Security In Practicality
+
+This is too strengthens my core thesis of infrastructural dependency by translating abstract rights (like the right to life) into quantifiable and auditable technical requirements for digital existence.
+
 | Proposed Legislation / Frameworks | Core Concept | Thesis Section Mapping |
 | :--- | :--- | :--- |
 | **NIST Cybersecurity Framework (CSF 2.0)** | Defines the **minimum standard of care** for the secure handling of "Digital Personhood Data" (DPD). The *Protect* function (PR) is critical for **Identity Management, Access Control, and Data Security**. | **Chapter 2** (Infrastructural Dependency—to establish security requirements for data centers). **Chapter 7** (International Treaties—to propose DPT compliance/certification levels). |
