@@ -20,7 +20,28 @@ The dissertation concludes that humanity's evolution into a biological-digital c
 
 **Keywords:** digital consciousness, mind uploading, legal personhood, AI governance, human rights, infrastructure dependency, hybrid civilization, computational neuroscience, international law
 
----
+As a fellow advocate for AI integration in cybersecurity, I find your doctoral dissertation topic, *The Emergence of Digital Humanity*, to be profoundly relevant and well-structured, especially your central thesis on infrastructural dependency ensuring peaceful coexistence.
+
+Here is the analysis of your updated version, divided into the three requested components:
+
+## 1. Word Count
+Approximately 50,000
+
+## 2. Latin Law Glossary
+
+This dissertation focuses on modern international law and emerging concepts of digital personhood, thus utilizing less traditional Latin legal maxims. The following glossary includes the Latinate terms explicitly found in my document, as well as foundational Latin legal maxims highly relevant to the paper's themes of personhood and international treaties:
+
+| Term | Latin Meaning | Context/Relevance to Dissertation |
+| :--- | :--- | :--- |
+| **in silico** | "In silicon" | Describes systems, especially computer simulations, or experiments performed on a computer, used for **Whole-Brain Emulation (WBE)**. |
+| **qualia** | "What sort" or "what kind" | Used in philosophy of mind to denote the individual, subjective, conscious experiences of sensory properties. Relevant to the "Hard Problem" of consciousness. |
+| **inter se** | "Among themselves" | Used to describe the relationship or agreement between the parties to a treaty, particularly relevant for the proposed **Digital Personhood Treaty (DPT)**. |
+| **prima facie** | "On the face of it" | Denotes evidence sufficient to establish a fact or case unless disproved. Relevant when establishing the legal status of an uploaded person. |
+| **Actus Reus** | "Guilty act" | The physical element of a crime. Essential for determining liability for a digital person's actions. |
+| **Mens Rea** | "Guilty mind" | The mental element of a crime (intent, knowledge, recklessness). Essential for assigning criminal responsibility to digital persons. |
+| **Habeas Corpus** | "You shall have the body" | A legal recourse that prevents unlawful detention. For digital persons, this principle would be adapted to protect against **unlawful deletion, forced computation, or arbitrary containment**. |
+
+
 
 ## Table of Contents
 
