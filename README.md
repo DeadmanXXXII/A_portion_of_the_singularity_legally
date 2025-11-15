@@ -1,6 +1,6 @@
 # The Emergence of Digital Humanity: A Comprehensive Legal, Political, Technological, and Ethical Analysis
 
-**A Doctoral Dissertation**
+**A Doctoral Dissertation In International Law**
 ### The Singularity Legality Internationally
 
 Prepared by: Blu Corbel aka DeadmanXXXII 
