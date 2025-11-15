@@ -60,6 +60,7 @@ This dissertation focuses on modern international law and emerging concepts of d
 10. Future Scenarios and Timeline Projections
 11. Conclusion
 12. Bibliography
+13. The Formalization of Personhood Security in Practicality
 
 ---
 
@@ -3372,4 +3373,12 @@ The **mutualism framework** positions biological-digital relations as symbiotic 
 1. **Convene expert working groups** developing draft Digital Personhood Treaty
 2. **Establish monitoring# The Emergence of Digital Humanity: A Comprehensive Legal, Political, Technological, and Ethical Analysis**
 
+## 12 Formalization of Digital Personhood In Practicality
 
+### 12.1 Frameworks
+
+Proposed Legislation / Frameworks,Core Concept,Thesis Section Mapping
+NIST Cybersecurity Framework (CSF 2.0),"Defines the minimum standard of care for the secure handling of ""Digital Personhood Data"" (DPD). The Protect function (PR) is critical for Identity Management, Access Control, and Data Security.",Chapter 2 (Infrastructural Dependency—to establish security requirements for data centers). Chapter 7 (International Treaties—to propose DPT compliance/certification levels).
+ISO/IEC 27001,"The international standard for an Information Security Management System (ISMS). Its implementation defines the Governance, Risk, and Compliance (GRC) structure required of Upload Service Providers.",Chapter 4 (Legal Personhood—to define corporate liability and due diligence for DPD storage). Chapter 7 (International Treaties—as a mechanism for international auditing).
+EU General Data Protection Regulation (GDPR) Art. 5(1)(f) & Art. 32,"Principles of ""Integrity and Confidentiality"" and mandatory requirements for implementing ""appropriate technical and organisational measures"" (e.g., encryption and pseudonymization) to protect data.","Chapter 4 (Legal Personhood—to adapt the ""Data Subject"" to ""Digital Person"" and define rights like Memory Integrity and the right to Immutability of Consciousness)."
+Blockchain/Cryptographic Ledger Technology,"Mechanism to ensure an Unbroken Chain of Custody for a digital person's core memory state, preventing non-consensual modifications, deletion, or rollbacks.",Chapter 2 (Infrastructural Dependency—as the technical solution for identity continuity).
