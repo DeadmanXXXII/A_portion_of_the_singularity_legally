@@ -1654,6 +1654,26 @@ This chapter examines:
 
 ### 7.2 Mechanisms of Corporate Control
 
+#### 7.2. The Digital Personhood Treaty (DPT)
+
+The DPT must function as the foundational pillar for cross-jurisdictional digital-human life, specifically addressing the non-physical nature of the uploaded mind. The protection of the uploaded mind's core data—its memory, identity, and backups—is paramount.
+
+##### **A. Sovereignty Over Cognitive Data and Backups**
+
+The continuous, uninterrupted existence of a digital person depends on the security of its data, which can be viewed as its equivalent to the physical body.
+
+* This requires a global interpretation of data protection aligned with the core principles of the **General Data Protection Regulation (GDPR)**, particularly the principles of **Purpose Limitation** and **Storage Limitations**.
+* The life-sustaining data of a digital person must be "kept in a form that permits identification... for no longer than is necessary for the purposes for which the personal data are processed", but for an uploaded mind, the "purpose" is **existence itself**. This necessitates a legal mandate for **indefinite, secure retention** of the cognitive backup.
+* The **Council of Europe's Convention 108+** guidelines on national digital identity stress that systems must comply with human rights standards, including protection against **unwarranted profiling and surveillance**. For an uploaded mind, this means their internal computational processes and memory logs must be protected from unauthorized access by state actors or corporations.
+
+##### **B. Digital Asylum and Extradition**
+
+The DPT must define **Digital Asylum**—the right of an uploaded individual to relocate their data and computational residency to a state that offers greater protection—and establish **Extradition Protocols** for digital crimes.
+
+* This framework must uphold the principle of **Fairness and Transparency** in the processing of personal data, ensuring that an individual is not subject to "unauthorized surveillance or profiling by governments or third parties".
+* A key DPT provision would be a digital version of **Convention Relating to the Status of Refugees (1951)**, establishing the right of a digital person to seek sanctuary if their host server-state threatens their **digital bodily integrity** (forced deletion, memory alteration, or throttling of computational resources).
+* Extradition proceedings must be governed by a **unified security approach**, such as the enhanced framework provided by the **EU Digital Identity Framework (eIDAS Regulation)**, to ensure that the authenticity and integrity of the digital individual being transferred are maintained during cross-border jurisdiction changes.
+
 #### 7.2.1 Intellectual Property Claims
 
 Corporations might claim ownership through several legal theories:
@@ -2995,6 +3015,20 @@ Digital persons may desire ongoing connection to the physical world:
 - Maintenance and repair of robotic bodies
 - Design and manufacturing of embodiment options
 - Safety protocols protecting robots from damage
+### 1. Chapter 9 – Societal Transition and Human–Digital Mutualism
+**(Expanded Content for Section 9.2.3: Connection to Physical Reality)**
+
+#### 9.2.3 Connection to Physical Reality
+
+The need for digital persons to maintain connection to the physical world introduces unique legal and ethical considerations, fundamentally tying the digital mind's well-being to its physical host infrastructure and the humans who maintain it.
+
+##### **A. Robotic Embodiment and Bodily Integrity**
+
+For digital persons operating a **Robotic Embodiment**, the traditional legal distinction between **personae (persons)** and **res (things/property)** becomes dangerously blurred. The legal status of the robot must be carefully distinguished from the uploaded consciousness operating it.
+
+* Legal scholars have proposed that sufficiently autonomous **humanoid robots** "could be granted rights protecting its physical integrity" to prevent destruction or unwarranted harm.
+* This concept is an extension of the **European Parliament's 2017 resolution** which recommended considering a special legal status of **"electronic personhood"** for "intelligent" robotic artefacts capable of autonomous decision-making.
+* Protecting the **robotic body** is functionally equivalent to protecting the physical shell of a biological human, demanding the application of protections analogous to those found in human rights law against physical assault or destruction. *
 
 **Sensory Experience:**
 - Biological humans can describe physical sensations (taste, smell, touch) that might be incompletely simulated
@@ -3006,6 +3040,14 @@ Digital persons may desire ongoing connection to the physical world:
 - Family ties connecting digital and biological relatives
 - Friendships spanning substrate divide
 - Romantic relationships if biologically alive people and digitally alive are romantically involved the classification of abuse and assault needs determined.
+##### **B. Romantic Relationships and Defining Abuse**
+
+The complexity of **Romantic relationships** between biologically alive individuals and digitally alive individuals necessitates a re-evaluation of assault and abuse legislation.
+
+* Existing frameworks already capture digital harm. The **UK Domestic Abuse Act 2021** has broadened the definition of domestic abuse to encompass **coercive and controlling behaviour** which can be entirely digital in nature, such as restricting access to devices or social media, and digital surveillance.
+* For digital persons, this definition must extend to the **coercive control of computational resources**, such as withholding bandwidth, throttling processing speed, or manipulating core data.
+* Furthermore, non-consensual sharing of an individual’s digital or cognitive data (akin to **Intimate Image Abuse (IIA)**) is now being addressed at an international level, with the **UN Cybercrime Convention** establishing a framework for states to act against such crimes, providing a template for protecting core digital identity.
+* 
 
 ### 9.24 Long-Term Stability
 
