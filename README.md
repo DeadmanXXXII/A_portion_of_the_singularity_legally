@@ -1,11 +1,12 @@
 # The Emergence of Digital Humanity: A Comprehensive Legal, Political, Technological, and Ethical Analysis
 
 **A Doctoral Dissertation**
+### The Singularity Legality Internationally
 
-Prepared for: Blu Corbel  
-Supervised by: [Academic Supervisor]  
-Institution: [University]  
-Date: November 2025
+Prepared by: Blu Corbel aka DeadmanXXXII 
+Supervised by:  
+Institution:  
+Date: 15 November 2025
 
 ---
 
@@ -3004,4 +3005,5 @@ Digital persons may desire ongoing connection to the physical world:
 **Relationships and Community:**
 - Family ties connecting digital and biological relatives
 - Friendships spanning substrate divide
-- Romantic relationships (if biolog
+- Romantic relationships if biologically alive people and digitally alive are romantically involved the classification of abuse and assault needs determined.
+
