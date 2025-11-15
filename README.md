@@ -1,1 +1,0 @@
-# A_portion_of_the_singularity_legally
