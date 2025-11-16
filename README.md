@@ -3162,6 +3162,9 @@ This chapter has demonstrated that biological-digital mutualism is not only poss
 6. **Economic synergies** where cooperation exceeds competition
 7. **Existential cooperation** on challenges threatening both populations
 
+### **Chapter 10: Timeline and Scenarios**
+First uploads are likely between 2035-2045, with mass adoption possible by 2060-2070 if costs decline and legal frameworks support widespread access. Optimistic scenarios feature equitable integration and shared prosperity; pessimistic scenarios involve exploitation and conflict; moderate scenarios show gradual, imperfect integration. The outcome depends on policy choices made in coming decades.
+
 The transition to hybrid civilization will face challenges—discrimination, inequality, conflict—but these are manageable through proactive policy, inclusive institutions, and cultivation of empathy across the substrate divide. The alternative—conflict and separation—harms both populations and forgoes tremendous opportunities for mutual flourishing.
 
 Humanity's digital evolution represents not the end of human civilization but its expansion into new forms of existence, all united by consciousness, dignity, and shared heritage. The peaceful, prosperous hybrid civilization is achievable if we act wisely, compassionately, and with foresight.
@@ -3202,7 +3205,7 @@ Humanity's digital evolution represents not the end of human civilization but it
 - Settlement provides compensation and contract voidance but underscores need for regulation
 - Public outcry accelerates legal protections
 
-#### 10.3.2 Technological Maturation
+#### 10.1. Technological Maturation
 
 **2040-2045: Efficiency Improvements**
 - Upload costs drop to $1-5M
@@ -3245,9 +3248,9 @@ Humanity's digital evolution represents not the end of human civilization but it
 - Long-term survival of consciousness guaranteed
 - Focus shifts to expansion beyond solar system
 
-### 10.5 Alternative Scenarios
+### 10.2 Alternative Scenarios
 
-#### 10.5.1 Optimistic Scenario: "Digital Renaissance"
+#### 10.2.1 Optimistic Scenario: "Digital Renaissance"
 
 **Assumptions:**
 - Rapid technological progress
@@ -3267,7 +3270,7 @@ Humanity's digital evolution represents not the end of human civilization but it
 - Existential risks substantially reduced
 - Universal human flourishing
 
-#### 10.5.2 Pessimistic Scenario: "Digital Divide"
+#### 10.2.2 Pessimistic Scenario: "Digital Divide"
 
 **Assumptions:**
 - Slow technological progress
@@ -3287,7 +3290,7 @@ Humanity's digital evolution represents not the end of human civilization but it
 - Risk of catastrophic conflict
 - Human civilization fractured and suffering
 
-#### 10.5.3 Moderate Scenario: "Gradual Integration"
+#### 10.2.3 Moderate Scenario: "Gradual Integration"
 
 **Assumptions:**
 - Moderate technological progress
@@ -3311,7 +3314,7 @@ Humanity's digital evolution represents not the end of human civilization but it
 4. Address concerns and fears constructively
 5. Promote inclusive vision of hybrid civilization
 
-#### 10.9.4 Individual Considerations
+#### 10.2.4 Individual Considerations
 
 **For Potential Uploads:**
 - Carefully research upload providers and legal protections
@@ -3329,32 +3332,30 @@ Humanity's digital evolution represents not the end of human civilization but it
 
 dependencies. Digital persons need physical infrastructure, security, social legitimacy, and connection to physical reality. Biological persons benefit from digital cognitive capacity for science, engineering, governance, and economic productivity. This mutualism—reinforced by family bonds, economic integration, and shared existential interests—creates foundations for long-term stable coexistence.
 
-**Chapter 10: Timeline and Scenarios**
-First uploads are likely between 2035-2045, with mass adoption possible by 2060-2070 if costs decline and legal frameworks support widespread access. Optimistic scenarios feature equitable integration and shared prosperity; pessimistic scenarios involve exploitation and conflict; moderate scenarios show gradual, imperfect integration. The outcome depends on policy choices made in coming decades.
 
-### 11.2 Theoretical Contributions
+### 11. Theoretical Contributions
 
 This dissertation makes several theoretical contributions:
 
-#### 11.2.1 Infrastructure Dependency Theory
+#### 11.1. Infrastructure Dependency Theory
 
 The concept of **infrastructure dependency as peace mechanism** challenges prevailing narratives of AI apocalypse. By demonstrating that digital consciousness requires continuous biological-maintained physical support, the dissertation establishes structural conditions making violent conflict irrational for both parties. This framework shifts analysis from "can we prevent AI takeover?" to "how can we structure mutualistic cooperation?"
 
-#### 11.2.2 Substrate-Neutral Rights Framework
+#### 11.2. Substrate-Neutral Rights Framework
 
 The dissertation develops a comprehensive **substrate-neutral rights framework** extending traditional human rights to digital persons while addressing unique considerations. This framework balances universal principles (dignity, autonomy, freedom from slavery) with substrate-specific adaptations (deletion as murder, cognitive liberty, copying rights), providing a template for future legal development.
 
-#### 11.2.3 Hybrid Governance Models
+#### 11.3 Hybrid Governance Models
 
 The proposed **hybrid governance architectures** (bicameral legislatures, liquid democracy, algorithmic advisory councils) offer novel institutional designs accommodating radically different cognitive capabilities within democratic frameworks. These models balance efficiency (leveraging digital cognitive advantages) with accountability (maintaining human control over values and priorities).
 
-#### 11.2.4 Mutualism Theory of Hybrid Civilization
+#### 11.4 Mutualism Theory of Hybrid Civilization
 
 The **mutualism framework** positions biological-digital relations as symbiotic rather than zero-sum. By identifying complementary capabilities and mutual dependencies, the dissertation provides theoretical grounding for optimism about peaceful coexistence, analogous to mutualistic relationships in biology (mycorrhizae, microbiomes) where cooperation benefits all parties.
 
-### 11.3 Policy Implications
+### 11.5 Policy Implications
 
-#### 11.3.1 For National Governments
+#### 11.5.1 For National Governments
 
 **Immediate Priorities:**
 1. **Establish legal frameworks preemptively** before upload technology matures, ensuring digital personhood recognition, rights protections, and corporate oversight
@@ -3368,7 +3369,7 @@ The **mutualism framework** positions biological-digital relations as symbiotic 
 3. **Foster social integration** through educational systems, cultural programs, and institutional design promoting cross-substrate cooperation
 4. **Adapt governance** developing bicameral or other hybrid structures ensuring both populations have voice
 
-#### 11.3.2 For International Organizations
+#### 11.5.2 For International Organizations
 
 **United Nations:**
 1. **Convene expert working groups** developing draft Digital Personhood Treaty
