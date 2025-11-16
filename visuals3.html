@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Humanity Dissertation - Diagrams & Charts</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .diagram-container {
+            background: white;
+            margin: 30px 0;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1a1a1a;
+            text-align: center;
+            border-bottom: 3px solid #2c3e50;
+            padding-bottom: 15px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 20px;
+        }
+        .chart {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fafafa;
+            border-radius: 5px;
+        }
+        svg {
+            width: 100%;
+            height: auto;
+            max-width: 100%;
+        }
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 15px 0;
+            padding: 10px;
+            background: #ecf0f1;
+            border-radius: 5px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 3px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #34495e;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .flowchart-box {
+            padding: 15px;
+            margin: 10px;
+            border: 2px solid #3498db;
+            border-radius: 8px;
+            background: #ecf0f1;
+            text-align: center;
+        }
+        .arrow {
+            text-align: center;
+            font-size: 24px;
+            color: #3498db;
+            margin: 5px 0;
+        }
+        .timeline {
+            position: relative;
+            padding: 20px 0;
+        }
+        .timeline-item {
+            display: flex;
+            margin: 20px 0;
+            position: relative;
+        }
+        .timeline-year {
+            width: 120px;
+            font-weight: bold;
+            color: #2c3e50;
+            padding-right: 20px;
+        }
+        .timeline-content {
+            flex: 1;
+            padding: 15px;
+            background: #ecf0f1;
+            border-left: 4px solid #3498db;
+            border-radius: 5px;
+        }
+        .note {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+        }
+        .print-break {
+            page-break-after: always;
+        }
+    </style>
+</head>
+<body>
+    <h1>The Emergence of Digital Humanity</h1>
+    <h1 style="font-size: 1.2em; border: none; margin-top: -10px;">Visual Diagrams, Charts & Frameworks</h1>
+    <p style="text-align: center; color: #666; margin-bottom: 40px;">
+        Prepared by: Blu Corbel aka DeadmanXXXII<br>
+        A Doctoral Dissertation in International Law<br>
+        The Singularity Legality Internationally
+    </p>
+
+    <!-- Diagram 1: Infrastructure Dependency Framework -->
+    <div class="diagram-container">
+        <h2>Figure 1.1: Infrastructure Dependency Framework</h2>
+        <h3>The Structural Foundation of Peaceful Coexistence</h3>
+        
+        <svg viewBox="0 0 800 600" style="max-height: 600px;">
+            <!-- Digital Persons circle -->
+            <circle cx="250" cy="300" r="120" fill="#3498db" opacity="0.3" stroke="#2980b9" stroke-width="3"/>
+            <text x="250" y="290" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a1a1a">Digital</text>
+            <text x="250" y="310" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a1a1a">Persons</text>
+            
+            <!-- Biological Persons circle -->
+            <circle cx="550" cy="300" r="120" fill="#e74c3c" opacity="0.3" stroke="#c0392b" stroke-width="3"/>
+            <text x="550" y="290" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a1a1a">Biological</text>
+            <text x="550" y="310" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a1a1a">Persons</text>
+            
+            <!-- Intersection area -->
+            <ellipse cx="400" cy="300" rx="80" ry="150" fill="#9b59b6" opacity="0.4"/>
+            <text x="400" y="250" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Mutual</text>
+            <text x="400" y="270" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Dependency</text>
+            <text x="400" y="290" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Zone</text>
+            
+            <!-- Digital needs -->
+            <text x="250" y="200" text-anchor="middle" font-size="12" fill="#1a1a1a">Power Generation</text>
+            <text x="250" y="220" text-anchor="middle" font-size="12" fill="#1a1a1a">Hardware Manufacturing</text>
+            <text x="250" y="240" text-anchor="middle" font-size="12" fill="#1a1a1a">Physical Security</text>
+            <text x="250" y="380" text-anchor="middle" font-size="12" fill="#1a1a1a">Infrastructure</text>
+            <text x="250" y="400" text-anchor="middle" font-size="12" fill="#1a1a1a">Maintenance</text>
+            
+            <!-- Biological benefits -->
+            <text x="550" y="200" text-anchor="middle" font-size="12" fill="#1a1a1a">Cognitive Labor</text>
+            <text x="550" y="220" text-anchor="middle" font-size="12" fill="#1a1a1a">Scientific Research</text>
+            <text x="550" y="240" text-anchor="middle" font-size="12" fill="#1a1a1a">Economic Productivity</text>
+            <text x="550" y="380" text-anchor="middle" font-size="12" fill="#1a1a1a">Climate Solutions</text>
+            <text x="550" y="400" text-anchor="middle" font-size="12" fill="#1a1a1a">Governance Support</text>
+            
+            <!-- Arrows showing exchange -->
+            <path d="M 370 300 L 280 300" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+            <path d="M 430 300 L 520 300" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+            
+            <defs>
+                <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                    <polygon points="0 0, 10 3, 0 6" fill="#2c3e50"/>
+                </marker>
+            </defs>
+            
+            <!-- Key insight box -->
+            <rect x="200" y="480" width="400" height="80" fill="#27ae60" opacity="0.2" stroke="#27ae60" stroke-width="2" rx="5"/>
+            <text x="400" y="510" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a1a1a">Key Insight: Structural Interdependency</text>
+            <text x="400" y="530" text-anchor="middle" font-size="12" fill="#1a1a1a">Digital persons cannot eliminate biological humans</text>
+            <text x="400" y="545" text-anchor="middle" font-size="12" fill="#1a1a1a">without destroying their own life-support systems</text>
+        </svg>
+
+        <div class="note">
+            <strong>Chapter Reference:</strong> This diagram illustrates the core thesis from Chapter 3 (Infrastructure Dependencies) demonstrating why violent conflict is structurally improbable between biological and digital populations.
+        </div>
+    </div>
+
+    <!-- Diagram 2: Timeline Projection -->
+    <div class="diagram-container print-break">
+        <h2>Figure 10.1: Timeline Projection for Digital Humanity Emergence (2025-2100)</h2>
+        
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-year">2025-2035</div>
+                <div class="timeline-content">
+                    <strong>Neuroscience Advances</strong>
+                    <ul>
+                        <li>Complete mouse connectome mapped</li>
+                        <li>Synaptic-resolution imaging improves 100x</li>
+                        <li>Non-human primate studies begin</li>
+                        <li>Preliminary legal discussions</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <div class="timeline-year">2035-2040</div>
+                <div class="timeline-content">
+                    <strong>First Human Uploads (Experimental)</strong>
+                    <ul>
+                        <li>2036: First destructive upload attempt</li>
+                        <li>2040: First non-destructive upload</li>
+                        <li>5-10 total uploads globally</li>
+                        <li>Major ethical debates intensify</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <div class="timeline-year">2040-2045</div>
+                <div class="timeline-content">
+                    <strong>Legal Recognition Begins</strong>
+                    <ul>
+                        <li>Norway, Netherlands, New Zealand pass Digital Persons Acts</li>
+                        <li>US Supreme Court: <em>Johnson v. NeuroLife Corp</em></li>
+                        <li>EU Digital Persons Directive (2042)</li>
+                        <li>~100-200 uploads globally</li>
+                        <li>Costs: $10-50M per upload</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <div class="timeline-year">2045-2050</div>
+                <div class="timeline-content">
+                    <strong>Accessibility Expansion</strong>
+                    <ul>
+                        <li>Costs decline to $100K-500K</li>
+                        <li>Middle-class access begins</li>
+                        <li>International Digital Rights Commission established</li>
+                        <li>Public and nonprofit upload services emerge</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <div class="timeline-year">2050-2070</div>
+                <div class="timeline-content">
+                    <strong>Mass Adoption Era</strong>
+                    <ul>
+                        <li>2055: 1 million uploads globally</li>
+                        <li>2060: 10 million uploads</li>
+                        <li>2065: 100 million uploads</li>
+                        <li>2070: 1 billion uploads (10% of population)</li>
+                        <li>Costs below $10K</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <div class="timeline-year">2070-2090</div>
+                <div class="timeline-content">
+                    <strong>Mature Hybrid Civilization</strong>
+                    <ul>
+                        <li>20-40% digital population by 2080</li>
+                        <li>Stable equilibrium achieved</li>
+                        <li>Bicameral governance refined</li>
+                        <li>Post-scarcity in information goods</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <div class="timeline-year">2080-2100</div>
+                <div class="timeline-content">
+                    <strong>Space Expansion</strong>
+                    <ul>
+                        <li>2078: Lunar data centers operational</li>
+                        <li>2085: Mars colonization accelerates</li>
+                        <li>Solar system-wide infrastructure</li>
+                        <li>Existential security achieved</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="note">
+            <strong>Chapter Reference:</strong> Chapter 10 (Future Scenarios and Timeline Projections). This timeline represents the moderate-optimistic scenario with proactive legal frameworks.
+        </div>
+    </div>
+
+    <!-- Diagram 3: Legal Rights Framework -->
+    <div class="diagram-container print-break">
+        <h2>Figure 4.1: Substrate-Neutral Rights Framework</h2>
+        <h3>Adaptation of Human Rights for Digital Persons</h3>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Biological Human Right</th>
+                    <th>International Framework</th>
+                    <th>Digital Person Equivalent</th>
+                    <th>Unique Considerations</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Right to Life</strong></td>
+                    <td>UDHR Art. 3<br>ECHR Art. 2<br>ICCPR Art. 6</td>
+                    <td><strong>Right to Continued Operation</strong><br>(Non-Deletion)</td>
+                    <td>• Backup status<br>• Infrastructure duty of care<br>• Digital suicide protocols</td>
+                </tr>
+                <tr>
+                    <td><strong>Freedom from Torture</strong></td>
+                    <td>ECHR Art. 3<br>ICCPR Art. 7</td>
+                    <td><strong>Freedom from Computational Torture</strong></td>
+                    <td>• Time dilation<br>• Sensory manipulation<br>• Memory alteration<br>• Forced isolation</td>
+                </tr>
+                <tr>
+                    <td><strong>Freedom from Slavery</strong></td>
+                    <td>UDHR Art. 4<br>ECHR Art. 4<br>ICCPR Art. 8</td>
+                    <td><strong>Prohibition of Digital Slavery</strong></td>
+                    <td>• Corporate ownership ban<br>• Forced computation<br>• Economic agency<br>• Contract voidability</td>
+                </tr>
+                <tr>
+                    <td><strong>Privacy & Bodily Integrity</strong></td>
+                    <td>ECHR Art. 8<br>ICCPR Art. 17<br>GDPR Art. 5-32</td>
+                    <td><strong>Cognitive Liberty & Data Sovereignty</strong></td>
+                    <td>• Memory integrity<br>• Thought privacy<br>• Self-modification rights<br>• Backup sovereignty</td>
+                </tr>
+                <tr>
+                    <td><strong>Property Rights</strong></td>
+                    <td>UDHR Art. 17<br>ECHR Protocol 1</td>
+                    <td><strong>Property & Infrastructure Rights</strong></td>
+                    <td>• Server ownership<br>• Computational resources<br>• Intellectual property<br>• Economic participation</td>
+                </tr>
+                <tr>
+                    <td><strong>Freedom of Movement</strong></td>
+                    <td>UDHR Art. 13<br>ICCPR Art. 12</td>
+                    <td><strong>Server Mobility & Data Portability</strong></td>
+                    <td>• Cross-jurisdiction transfer<br>• Provider switching<br>• Digital asylum<br>• Citizenship rights</td>
+                </tr>
+                <tr>
+                    <td><strong>—</strong><br>(No Biological Analogue)</td>
+                    <td>Novel Right</td>
+                    <td><strong>Right to Copy/Fork/Merge</strong></td>
+                    <td>• Consensual copying<br>• Copy personhood status<br>• Identity allocation<br>• Exploitation prevention</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="note">
+            <strong>Chapter Reference:</strong> Chapter 4 (Legal Personhood and Rights). This framework extends existing human rights instruments to digital consciousness while addressing substrate-specific vulnerabilities.
+        </div>
+    </div>
+
+    <!-- Diagram 4: Governance Models -->
+    <div class="diagram-container print-break">
+        <h2>Figure 5.1: Bicameral Legislative Structure for Hybrid Civilization</h2>
+        
+        <svg viewBox="0 0 800 700" style="max-height: 700px;">
+            <!-- Title boxes -->
+            <rect x="50" y="30" width="300" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="5"/>
+            <text x="200" y="65" text-anchor="middle" font-size="18" font-weight="bold" fill="white">Biological Assembly</text>
+            <text x="200" y="90" text-anchor="middle" font-size="12" fill="white">Traditional Electoral Methods</text>
+            
+            <rect x="450" y="30" width="300" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
+            <text x="600" y="65" text-anchor="middle" font-size="18" font-weight="bold" fill="white">Digital Assembly</text>
+            <text x="600" y="90" text-anchor="middle" font-size="12" fill="white">Accelerated Deliberation</text>
+            
+            <!-- Characteristics -->
+            <rect x="50" y="130" width="300" height="180" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="5"/>
+            <text x="60" y="155" font-size="14" font-weight="bold">Characteristics:</text>
+            <text x="60" y="180" font-size="12">• Geographic districts</text>
+            <text x="60" y="200" font-size="12">• Periodic elections (2-6 years)</text>
+            <text x="60" y="220" font-size="12">• Physical assembly chambers</text>
+            <text x="60" y="240" font-size="12">• Biological-pace deliberation</text>
+            <text x="60" y="260" font-size="12">• Traditional voting procedures</text>
+            <text x="60" y="280" font-size="12">• Party-based organization</text>
+            
+            <rect x="450" y="130" width="300" height="180" fill="#ecf0f1" stroke="#95a5a6" stroke-width="1" rx="5"/>
+            <text x="460" y="155" font-size="14" font-weight="bold">Characteristics:</text>
+            <text x="460" y="180" font-size="12">• Virtual constituency</text>
+            <text x="460" y="200" font-size="12">• Continuous/rolling sessions</text>
+            <text x="460" y="220" font-size="12">• Digital assembly spaces</text>
+            <text x="460" y="240" font-size="12">• Accelerated deliberation</text>
+            <text x="460" y="260" font-size="12">• Liquid democracy options</text>
+            <text x="460" y="280" font-size="12">• Real-time voting</text>
+            
+            <!-- Joint processes -->
+            <rect x="150" y="340" width="500" height="100" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
+            <text x="400" y="370" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Joint Legislative Process</text>
+            <text x="400" y="395" text-anchor="middle" font-size="13" fill="white">Both chambers must approve legislation</text>
+            <text x="400" y="415" text-anchor="middle" font-size="13" fill="white">Bicameral conference resolves disagreements</text>
+            <text x="400" y="435" text-anchor="middle" font-size="13" fill="white">Either chamber can initiate bills</text>
+            
+            <!-- Arrows -->
+            <path d="M 200 310 L 350 340" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+            <path d="M 600 310 L 450 340" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+            
+            <defs>
+                <marker id="arrowhead2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                    <polygon points="0 0, 10 3, 0 6" fill="#2c3e50"/>
+                </marker>
+            </defs>
+            
+            <!-- Executive branch -->
+            <rect x="250" y="470" width="300" height="70" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/>
+            <text x="400" y="500" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Executive Branch</text>
+            <text x="400" y="525" text-anchor="middle" font-size="12" fill="white">President + Vice President (opposite substrates)</text>
+            
+            <path d="M 400 440 L 400 470" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+            
+            <!-- Judicial branch -->
+            <rect x="250" y="570" width="300" height="70" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
+            <text x="400" y="600" text-anchor="middle" font-size="16" font-weight="bold" fill="white">Judicial Branch</text>
+            <text x="400" y="625" text-anchor="middle" font-size="12" fill="white">Supreme Court (mixed biological-digital justices)</text>
+            
+            <path d="M 400 540 L 400 570" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+        </svg>
+
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color" style="background: #e74c3c;"></div>
+                <span>Biological Institutions</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #3498db;"></div>
+                <span>Digital Institutions</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #9b59b6;"></div>
+                <span>Mixed/Joint Institutions</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #27ae60;"></div>
+                <span>Executive</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #f39c12;"></div>
+                <span>Judicial</span>
+            </div>
+        </div>
+
+        <div class="note">
+            <strong>Chapter Reference:</strong> Chapter 5 (Governance Structures). This bicameral model balances political equality with capability differences, preventing domination by either population.
+        </div>
+    </div>
+
+    <!-- Diagram 5: Economic Integration -->
+    <div class="diagram-container print-break">
+        <h2>Figure 6.1: Economic Integration and Labor Market Complementarity</h2>
+        
+        <svg viewBox="0 0 800 600" style="max-height: 600px;">
+            <!-- Left side - Biological comparative advantages -->
+            <rect x="50" y="50" width="300" height="220" fill="#e8f5e9" stroke="#4caf50" stroke-width="2" rx="5"/>
+            <text x="200" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#1b5e20">Biological Comparative Advantages</text>
+            
+            <text x="60" y="110" font-size="13">• Physical labor & manipulation</text>
+            <text x="60" y="135" font-size="13">• Direct sensory experience</text>
+            <text x="60" y="160" font-size="13">• Embodied creativity</text>
+            <text x="60" y="185" font-size="13">• Emotional labor</text>
+            <text x="60" y="210" font-size="13">• Interpersonal relationships</text>
+            <text x="60" y="235" font-size="13">• Physical world maintenance</text>
+            <text x="60" y="260" font-size="13">• Infrastructure operations</text>
+            
+            <!-- Right side - Digital comparative advantages -->
+            <rect x="450" y="50" width="300" height="220" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="5"/>
+            <text x="600" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#0d47a1">Digital Comparative Advantages</text>
+            
+            <text x="460" y="110" font-size="13">• Information processing (1000x speed)</text>
+            <text x="460" y="135" font-size="13">• Complex calculations</text>
+            <text x="460" y="160" font-size="13">• Pattern recognition</text>
+            <text x="460" y="185" font-size="13">• Rapid decision-making</text>
+            <text x="460" y="210" font-size="13">• Perfect memory retention</text>
+            <text x="460" y="235" font-size="13">• 24/7 operation</text>
+            <text x="460" y="260" font-size="13">• Instant knowledge access</text>
+            
+            <!-- Center - Collaborative sectors -->
+            <ellipse cx="400" cy="400" rx="180" ry="120" fill="#fff3e0" stroke="#ff9800" stroke-width="3"/>
+            <text x="400" y="320" text-anchor="middle" font-size="16" font-weight="bold" fill="#e65100">Collaborative Sectors</text>
+            
+            <text x="400" y="355" text-anchor="middle" font-size="12">Healthcare: Digital diagnosis +</text>
+            <text x="400" y="373" text-anchor="middle" font-size="12">Biological patient care</text>
+            
+            <text x="400" y="400" text-anchor="middle" font-size="12">Architecture: Digital modeling +</text>
+            <text x="400" y="418" text-anchor="middle" font-size="12">Biological construction</text>
+            
+            <text x="400" y="445" text-anchor="middle" font-size="12">Law: Digital research +</text>
+            <text x="400" y="463" text-anchor="middle" font-size="12">Biological client relations</text>
+            
+            <text x="400" y="490" text-anchor="middle" font-size="12">Science: Digital analysis +</text>
+            <text x="400" y="508" text-anchor="middle" font-size="12">Biological experimentation</text>
+            
+            <!-- Arrows showing complementarity -->
+            <path d="M 350 160 L 280 350" stroke="#9e9e9e" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
+            <path d="M 450 160 L 520 350" stroke="#9e9e9e" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
+            
+            <defs>
+                <marker id="arrowhead3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                    <polygon points="0 0, 10 3, 0 6" fill="#9e9e9e"/>
+                </marker>
+            </defs>
+            
+            <!-- Bottom insight -->
+            <rect x="100" y="550" width="600" height="40" fill="#c8e6c9" stroke="#4caf50" stroke-width="2" rx="5"/>
+            <text x="400" y="575" text-anchor="middle" font-size="13" font-weight="bold">Mutual Benefit: Specialization based on comparative advantage maximizes total productivity</text>
+        </svg>
+
+        <div class="note">
+            <strong>Chapter Reference:</strong> Chapter 6 (Political Economy of Digital Labour). Rather than pure competition, biological and digital labor are complementary, with each population specializing in areas of comparative advantage.
+        </div>
+    </div>
